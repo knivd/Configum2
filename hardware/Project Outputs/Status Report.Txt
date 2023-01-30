@@ -1,0 +1,12 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [Configum-2.PrjPcb]
+   Generated File[Fabrication Testpoint Report for PCB.txt]
+   Generated File[Fabrication Testpoint Report for PCB.csv]
+   Generated File[Fabrication Testpoint Report for PCB.ipc]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:14:55 On 04/04/2017

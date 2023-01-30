@@ -1,0 +1,65 @@
+Protel Design System Design Rule Check
+PCB File : K:\Work\Orphidia\Projects\Others\Configum-2\hardware\PCB.PcbDoc
+Date     : 14/02/2017
+Time     : 12:54:40
+
+Processing Rule : Length Constraint (Min=20.1mm) (Max=20.3mm) (InNet('RAS#') or InNet('CAS#') or InNet('WE#'))
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=24.3mm) (Max=24.4mm) (InNet('UDM') or InNet('LDM'))
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=20.2mm) (Max=20.25mm) (InNet('UD_*') or InNet('LD_*'))
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=20.2mm) (Max=20.25mm) (InNet('CK_*'))
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=20.1mm) (Max=20.3mm) (InNet('BA*'))
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=20.1mm) (Max=20.3mm) (InNet('DQ*'))
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=-25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=-25mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=-25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=25mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=20mm) (Prefered=1mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=2mm) (Preferred=0.15mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=20.1mm) (Max=20.3mm) (InNet('MA*'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:17

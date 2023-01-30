@@ -1,0 +1,6 @@
+Layer Pairs Export File for PCB: K:\Work\Orphidia\Projects\Others\Configum-2\hardware\PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb.txt|DrillLayers=gtl,g2,g3,g4,g5,g6,g7,g8,g9,gbl
+LayersSetName=Top_1_Blind_Vias|DrillFile=pcb.tx1|DrillLayers=gtl,g2
+LayersSetName=Top_2_Blind_Vias|DrillFile=pcb.tx2|DrillLayers=gtl,g2,g3
+LayersSetName=7_Bot_Blind_Vias|DrillFile=pcb.tx3|DrillLayers=g8,g9,gbl
+LayersSetName=8_Bot_Blind_Vias|DrillFile=pcb.tx4|DrillLayers=g9,gbl
